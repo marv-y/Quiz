@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INFS3634Quiz</string>
+    <string name="androidVersion">The current Android API version is 25</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="correctToast">Correct</string>
+    <string name="falseToast">False</string>
+</resources>
